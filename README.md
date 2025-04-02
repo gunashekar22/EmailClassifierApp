@@ -78,10 +78,14 @@ Frontend will be available at `http://localhost:5173`.
   Congratulations!!! You’ve won a $1000 gift card!!! Click here to claim.
   ```
   **Expected Output**: `spam`
+  ![Screenshot 2025-04-02 155714](https://github.com/user-attachments/assets/362b6ffd-a4de-42b9-afd3-8250d38dd291)
+
 
 - **Ham Email**:
   ```
   Hi Sarah, I hope you’re doing well! Want to grab coffee this weekend?
   ```
   **Expected Output**: `ham`
+  ![Screenshot 2025-04-02 155516](https://github.com/user-attachments/assets/e98ae597-5bcc-4bf9-bdf4-54078332bd14)
+
 
